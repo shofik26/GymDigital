@@ -1,0 +1,14 @@
+E:\PRODUCTS\GymDigital\IntegrationalTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\PRODUCTS\GymDigital\IntegrationalTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\PRODUCTS\GymDigital\IntegrationalTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\PRODUCTS\GymDigital\IntegrationalTests\bin\Debug\netcoreapp2.2\IntegrationalTests.deps.json
+E:\PRODUCTS\GymDigital\IntegrationalTests\bin\Debug\netcoreapp2.2\IntegrationalTests.runtimeconfig.json
+E:\PRODUCTS\GymDigital\IntegrationalTests\bin\Debug\netcoreapp2.2\IntegrationalTests.runtimeconfig.dev.json
+E:\PRODUCTS\GymDigital\IntegrationalTests\bin\Debug\netcoreapp2.2\IntegrationalTests.dll
+E:\PRODUCTS\GymDigital\IntegrationalTests\bin\Debug\netcoreapp2.2\IntegrationalTests.pdb
+E:\PRODUCTS\GymDigital\IntegrationalTests\obj\Debug\netcoreapp2.2\IntegrationalTests.csprojAssemblyReference.cache
+E:\PRODUCTS\GymDigital\IntegrationalTests\obj\Debug\netcoreapp2.2\IntegrationalTests.csproj.CoreCompileInputs.cache
+E:\PRODUCTS\GymDigital\IntegrationalTests\obj\Debug\netcoreapp2.2\IntegrationalTests.AssemblyInfoInputs.cache
+E:\PRODUCTS\GymDigital\IntegrationalTests\obj\Debug\netcoreapp2.2\IntegrationalTests.AssemblyInfo.cs
+E:\PRODUCTS\GymDigital\IntegrationalTests\obj\Debug\netcoreapp2.2\IntegrationalTests.dll
+E:\PRODUCTS\GymDigital\IntegrationalTests\obj\Debug\netcoreapp2.2\IntegrationalTests.pdb

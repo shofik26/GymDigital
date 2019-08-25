@@ -1,0 +1,17 @@
+E:\PRODUCTS\GymDigital\Src\Web\bin\Debug\netcoreapp2.1\Web.deps.json
+E:\PRODUCTS\GymDigital\Src\Web\bin\Debug\netcoreapp2.1\Web.runtimeconfig.json
+E:\PRODUCTS\GymDigital\Src\Web\bin\Debug\netcoreapp2.1\Web.runtimeconfig.dev.json
+E:\PRODUCTS\GymDigital\Src\Web\bin\Debug\netcoreapp2.1\Web.dll
+E:\PRODUCTS\GymDigital\Src\Web\bin\Debug\netcoreapp2.1\Web.pdb
+E:\PRODUCTS\GymDigital\Src\Web\obj\Debug\netcoreapp2.1\Web.csprojAssemblyReference.cache
+E:\PRODUCTS\GymDigital\Src\Web\obj\Debug\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+E:\PRODUCTS\GymDigital\Src\Web\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+E:\PRODUCTS\GymDigital\Src\Web\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+E:\PRODUCTS\GymDigital\Src\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+E:\PRODUCTS\GymDigital\Src\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
+E:\PRODUCTS\GymDigital\Src\Web\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
+E:\PRODUCTS\GymDigital\Src\Web\obj\Debug\netcoreapp2.1\Web.dll
+E:\PRODUCTS\GymDigital\Src\Web\obj\Debug\netcoreapp2.1\Web.pdb
+E:\PRODUCTS\GymDigital\Src\Web\bin\Debug\netcoreapp2.1\Infrastructure.dll
+E:\PRODUCTS\GymDigital\Src\Web\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+E:\PRODUCTS\GymDigital\Src\Web\obj\Debug\netcoreapp2.1\Web.csproj.CopyComplete

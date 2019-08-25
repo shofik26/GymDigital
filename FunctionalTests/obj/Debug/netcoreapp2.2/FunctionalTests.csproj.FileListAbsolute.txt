@@ -1,0 +1,14 @@
+E:\PRODUCTS\GymDigital\FunctionalTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\PRODUCTS\GymDigital\FunctionalTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\PRODUCTS\GymDigital\FunctionalTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\PRODUCTS\GymDigital\FunctionalTests\bin\Debug\netcoreapp2.2\FunctionalTests.deps.json
+E:\PRODUCTS\GymDigital\FunctionalTests\bin\Debug\netcoreapp2.2\FunctionalTests.runtimeconfig.json
+E:\PRODUCTS\GymDigital\FunctionalTests\bin\Debug\netcoreapp2.2\FunctionalTests.runtimeconfig.dev.json
+E:\PRODUCTS\GymDigital\FunctionalTests\bin\Debug\netcoreapp2.2\FunctionalTests.dll
+E:\PRODUCTS\GymDigital\FunctionalTests\bin\Debug\netcoreapp2.2\FunctionalTests.pdb
+E:\PRODUCTS\GymDigital\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.csprojAssemblyReference.cache
+E:\PRODUCTS\GymDigital\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.csproj.CoreCompileInputs.cache
+E:\PRODUCTS\GymDigital\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.AssemblyInfoInputs.cache
+E:\PRODUCTS\GymDigital\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.AssemblyInfo.cs
+E:\PRODUCTS\GymDigital\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.dll
+E:\PRODUCTS\GymDigital\FunctionalTests\obj\Debug\netcoreapp2.2\FunctionalTests.pdb

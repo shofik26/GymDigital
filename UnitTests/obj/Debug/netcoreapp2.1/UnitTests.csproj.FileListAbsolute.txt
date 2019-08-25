@@ -1,0 +1,14 @@
+E:\PRODUCTS\GymDigital\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\PRODUCTS\GymDigital\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\PRODUCTS\GymDigital\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\PRODUCTS\GymDigital\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+E:\PRODUCTS\GymDigital\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+E:\PRODUCTS\GymDigital\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+E:\PRODUCTS\GymDigital\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+E:\PRODUCTS\GymDigital\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+E:\PRODUCTS\GymDigital\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+E:\PRODUCTS\GymDigital\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+E:\PRODUCTS\GymDigital\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+E:\PRODUCTS\GymDigital\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+E:\PRODUCTS\GymDigital\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb
+E:\PRODUCTS\GymDigital\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache

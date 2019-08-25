@@ -1,0 +1,14 @@
+E:\PRODUCTS\GymDigital\Src\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+E:\PRODUCTS\GymDigital\Src\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+E:\PRODUCTS\GymDigital\Src\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+E:\PRODUCTS\GymDigital\Src\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
+E:\PRODUCTS\GymDigital\Src\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+E:\PRODUCTS\GymDigital\Src\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+E:\PRODUCTS\GymDigital\Src\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+E:\PRODUCTS\GymDigital\Src\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb
+E:\PRODUCTS\GymDigital\Src\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+E:\PRODUCTS\GymDigital\Src\Infrastructure\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+E:\PRODUCTS\GymDigital\Src\Infrastructure\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+E:\PRODUCTS\GymDigital\Src\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+E:\PRODUCTS\GymDigital\Src\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.json
+E:\PRODUCTS\GymDigital\Src\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.dev.json
