@@ -18,11 +18,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{53453707-1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{EDDF6FEB-B2C9-4DC9-BC02-6B446C7E6611}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalTests", "FunctionalTests\FunctionalTests.csproj", "{8A9CFFB1-568B-4F87-8A12-29FBACF9CDCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalTests", "Tests\FunctionalTests\FunctionalTests.csproj", "{8A9CFFB1-568B-4F87-8A12-29FBACF9CDCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationalTests", "IntegrationalTests\IntegrationalTests.csproj", "{C7FEB92E-1762-49C8-A8F7-B72BDEEDFC7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationalTests", "Tests\IntegrationalTests\IntegrationalTests.csproj", "{C7FEB92E-1762-49C8-A8F7-B72BDEEDFC7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{C94D0E2F-5A5C-4C08-AA77-D43C3A3B6607}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "Tests\UnitTests\UnitTests.csproj", "{C94D0E2F-5A5C-4C08-AA77-D43C3A3B6607}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
