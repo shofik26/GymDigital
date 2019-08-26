@@ -5858,11 +5858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PRODUCTS\\GymDigital\\IntegrationalTests\\IntegrationalTests.csproj",
+      "projectUniqueName": "E:\\PRODUCTS\\GymDigital\\Tests\\IntegrationalTests\\IntegrationalTests.csproj",
       "projectName": "IntegrationalTests",
-      "projectPath": "E:\\PRODUCTS\\GymDigital\\IntegrationalTests\\IntegrationalTests.csproj",
+      "projectPath": "E:\\PRODUCTS\\GymDigital\\Tests\\IntegrationalTests\\IntegrationalTests.csproj",
       "packagesPath": "C:\\Users\\Kamrul\\.nuget\\packages\\",
-      "outputPath": "E:\\PRODUCTS\\GymDigital\\IntegrationalTests\\obj\\",
+      "outputPath": "E:\\PRODUCTS\\GymDigital\\Tests\\IntegrationalTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

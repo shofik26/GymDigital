@@ -5858,11 +5858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PRODUCTS\\GymDigital\\FunctionalTests\\FunctionalTests.csproj",
+      "projectUniqueName": "E:\\PRODUCTS\\GymDigital\\Tests\\FunctionalTests\\FunctionalTests.csproj",
       "projectName": "FunctionalTests",
-      "projectPath": "E:\\PRODUCTS\\GymDigital\\FunctionalTests\\FunctionalTests.csproj",
+      "projectPath": "E:\\PRODUCTS\\GymDigital\\Tests\\FunctionalTests\\FunctionalTests.csproj",
       "packagesPath": "C:\\Users\\Kamrul\\.nuget\\packages\\",
-      "outputPath": "E:\\PRODUCTS\\GymDigital\\FunctionalTests\\obj\\",
+      "outputPath": "E:\\PRODUCTS\\GymDigital\\Tests\\FunctionalTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -51,7 +51,7 @@ namespace Web
 
 
 
-            services.AddDbContext<GymDigitalContext>(options => options.UseSqlServer(Configuration.GetConnectionString("GymDigitalConext"), b=>b.MigrationsAssembly("Infrastructure")));
+            services.AddDbContext<GymDigitalContext>(options => options.UseSqlServer(Configuration.GetConnectionString("GymDigitalConext")));
 
 
             // configure strongly typed strings objects

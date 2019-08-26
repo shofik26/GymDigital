@@ -20,6 +20,7 @@ namespace ApplicationCore.Services
         public async Task CreateAsync(MembershipCategoryDto categoryDto)
         {
             var category = new Category();
+            category.Id = 10;
             category.Name = categoryDto.Name;
             category.RoleId = 1;
             category.BranchId = 0;
