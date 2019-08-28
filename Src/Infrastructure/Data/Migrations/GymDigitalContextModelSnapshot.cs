@@ -42,6 +42,26 @@ namespace Infrastructure.Data.Migrations
                     b.ToTable("MembershipCategories");
                 });
 
+            modelBuilder.Entity("ApplicationCore.Entities.MembershipAggregate.InstallmentPlan", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<bool>("Active");
+
+                    b.Property<DateTime>("CreatedDate");
+
+                    b.Property<string>("Name")
+                        .IsRequired();
+
+                    b.Property<DateTime>("UpdatedDate");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("MembershipInstallmentPlans");
+                });
+
             modelBuilder.Entity("ApplicationCore.Entities.UserAggregate.Account", b =>
                 {
                     b.Property<int>("Id")

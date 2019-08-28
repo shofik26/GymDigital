@@ -16,5 +16,6 @@ namespace Infrastructure.Data
 
         public DbSet<Account> Users { get; set; }
         public DbSet<Category> MembershipCategories { get; set; }
+        public DbSet<InstallmentPlan> MembershipInstallmentPlans { get; set; }
     }
 }

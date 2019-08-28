@@ -84,6 +84,7 @@ namespace Web
             // configure DI for application services 
             services.AddScoped<IAccountService, AccountService>();
             services.AddScoped<IMembershipCategory, MembershipCategoryService>();
+            services.AddScoped<IMembershipInstallmentPlan, MembershipInstallmentPlanService>();
 
             services.AddScoped(typeof(IAppLogger<>), typeof(LoggerAdapter<>));
 

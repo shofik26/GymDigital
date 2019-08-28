@@ -29,16 +29,16 @@ namespace Web.Controllers
             _category = category;
             _mapper = mapper;
         }
-        
+
 
         [HttpPost]
         [Route("category")]
-        public async Task<IActionResult> Create([FromBody]MembershipCategoryDto  categoryDto)
+        public async Task<IActionResult> Create([FromBody]MembershipCategoryDto categoryDto)
         {
             if (categoryDto == null)
                 return BadRequest("No data found");
 
-            var catagory = _category.CreateAsync(categoryDto);
+            await _category.CreateAsync(categoryDto);
 
             return Ok(categoryDto);
 

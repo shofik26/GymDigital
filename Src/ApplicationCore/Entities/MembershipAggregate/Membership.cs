@@ -13,9 +13,7 @@ namespace ApplicationCore.Entities.MembershipAggregate
         public string Limit { get; set; }
         public string LimitType { get; set; }
         public decimal Amount { get; set; }
-        public string Class { get; set; }
         public decimal Installment { get; set; }
-        public string InstallmentPlan { get; set; }
         public decimal SignupFee { get; set; }
         public string Description { get; set; }
         public string Image { get; set; }
