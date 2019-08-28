@@ -1,4 +1,4 @@
-# GymDigital ### A GYM Management System
+# GymDigital (A GYM Management System)
 
 
 ### Add migrations
