@@ -26,7 +26,6 @@ namespace ApplicationCore.Services
             membership.Limit = membershipDto.Limit;
             membership.LimitType = membershipDto.LimitType;
             membership.Amount = membershipDto.Amount;
-            membership.Installment = membershipDto.Installment;
             membership.SignupFee = membershipDto.SignupFee;
             membership.Description = membershipDto.Description;
             membership.Image = membershipDto.Image;

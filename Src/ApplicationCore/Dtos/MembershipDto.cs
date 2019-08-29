@@ -12,7 +12,6 @@ namespace ApplicationCore.Dtos
         public string Limit { get; set; }
         public string LimitType { get; set; }
         public decimal Amount { get; set; }
-        public decimal Installment { get; set; }
         public decimal SignupFee { get; set; }
         public string Description { get; set; }
         public string Image { get; set; }

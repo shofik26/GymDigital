@@ -27,10 +27,7 @@ namespace Infrastructure.Data
             modelBuilder.Entity<Membership>()
                 .Property(membership => membership.Amount)
                 .HasColumnType("DECIMAL(12,2)");
-
-            modelBuilder.Entity<Membership>()
-                .Property(membership => membership.Installment)
-                .HasColumnType("DECIMAL(12,2)");
+            
 
             modelBuilder.Entity<Membership>()
                 .Property(membership => membership.SignupFee)

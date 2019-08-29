@@ -70,7 +70,8 @@ namespace Infrastructure.Data.Migrations
 
                     b.Property<bool>("Active");
 
-                    b.Property<decimal>("Amount");
+                    b.Property<decimal>("Amount")
+                        .HasColumnType("DECIMAL(12,2)");
 
                     b.Property<int>("Category");
 
@@ -80,8 +81,6 @@ namespace Infrastructure.Data.Migrations
 
                     b.Property<string>("Image");
 
-                    b.Property<decimal>("Installment");
-
                     b.Property<string>("Limit");
 
                     b.Property<string>("LimitType");
@@ -90,7 +89,8 @@ namespace Infrastructure.Data.Migrations
 
                     b.Property<string>("Period");
 
-                    b.Property<decimal>("SignupFee");
+                    b.Property<decimal>("SignupFee")
+                        .HasColumnType("DECIMAL(12,2)");
 
                     b.Property<DateTime>("UpdatedDate");
 
