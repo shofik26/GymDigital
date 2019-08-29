@@ -85,9 +85,10 @@ namespace Web
             services.AddScoped<IAccountService, AccountService>();
             services.AddScoped<IMembershipCategory, MembershipCategoryService>();
             services.AddScoped<IMembershipInstallmentPlan, MembershipInstallmentPlanService>();
+            services.AddScoped<IMembership, MembershipService>();
 
             services.AddScoped(typeof(IAppLogger<>), typeof(LoggerAdapter<>));
-
+            
         }
         
 

@@ -1,11 +1,12 @@
-﻿using ApplicationCore.SharedKernel;
+﻿using ApplicationCore.Interfaces;
+using ApplicationCore.SharedKernel;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace ApplicationCore.Entities.MembershipAggregate
 {
-    public class Membership: BaseEntity
+    public class Membership : BaseEntity, IAggregateRoot
     {
         public string Name { get; set; }
         public int Category { get; set; }
