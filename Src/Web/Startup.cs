@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿
 using System.Text;
-using System.Threading.Tasks;
 using ApplicationCore.Helpers;
 using ApplicationCore.Interfaces;
 using ApplicationCore.Services;
@@ -12,14 +9,13 @@ using Infrastructure.Logging;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
+using Swashbuckle.AspNetCore.Swagger;
 
 namespace Web
 {
@@ -49,10 +45,13 @@ namespace Web
             //services.AddDbContext<GymDigitalContext>(x => x.UseInMemoryDatabase("TestDb"));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2); ;
 
-
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Info { Title = "GymDigital API", Version = "v1" });
+            });
 
             services.AddDbContext<GymDigitalContext>(options => options.UseSqlServer(Configuration.GetConnectionString("GymDigitalConext")));
-
+            
 
             // configure strongly typed strings objects
             var appSettingsSection = Configuration.GetSection("AppSettings");
@@ -95,7 +94,20 @@ namespace Web
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
-           
+
+
+            var swaggerOptions = new Options.SwaggerOptions();
+            Configuration.GetSection(nameof(SwaggerOptions)).Bind(swaggerOptions);
+
+            app.UseSwagger(option =>
+            {
+                option.RouteTemplate = swaggerOptions.JsonRoute;
+            });
+
+            app.UseSwaggerUI(option =>
+            {
+                option.SwaggerEndpoint(swaggerOptions.UIEndpoint, swaggerOptions.Description);
+            });
 
             // global core policy
             app.UseCors(x => x

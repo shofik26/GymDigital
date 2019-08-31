@@ -7933,11 +7933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PRODUCTS\\GymDigital\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "E:\\PRODUCTS\\GymDigital\\Src\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "E:\\PRODUCTS\\GymDigital\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "E:\\PRODUCTS\\GymDigital\\Src\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Kamrul\\.nuget\\packages\\",
-      "outputPath": "E:\\PRODUCTS\\GymDigital\\src\\Infrastructure\\obj\\",
+      "outputPath": "E:\\PRODUCTS\\GymDigital\\Src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7956,8 +7956,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\PRODUCTS\\GymDigital\\src\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "E:\\PRODUCTS\\GymDigital\\src\\ApplicationCore\\ApplicationCore.csproj"
+            "E:\\PRODUCTS\\GymDigital\\Src\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "E:\\PRODUCTS\\GymDigital\\Src\\ApplicationCore\\ApplicationCore.csproj"
             }
           }
         }
