@@ -1,5 +1,8 @@
 # GymDigital (A GYM Management System)
 
+### Project Initilize
+Firstly clone "GymDigital" using this commend.
+``` git clone https://github.com/shofik26/GymDigital.git ```
 
 ### Add migrations
 ``` 
